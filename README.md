@@ -1,4 +1,4 @@
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on Media Usage and Racial Stereotypes
 
 # Introduction
 
@@ -6,12 +6,12 @@ Throughout the the term, you will be working to build up an analysis of a specif
 
 ## Research Topic: 
 
-Describe research topic
+We will use data from the American National Election Studies survey to examine the relationship between media usage and racial stereotyping. We will also examine how this relationship varies by age.
 
 ### Research questions
 
-1. x related to y
-2. contextual variable
+1. How is different forms of media usage related to the tendency to view a black people in stereotypical terms?
+2. How does this relationship between media usage and stereotypical views vary by age?
 
 ## Technical Details
 
